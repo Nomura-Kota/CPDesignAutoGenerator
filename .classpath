@@ -2,5 +2,31 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/javaparser-core-3.25.4.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/logback-classic-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/logback-core-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="C:/java_workspace/CPDesignAutoGenerator/testset/com/example/CPDesignAutoGenerator/lib/log4j-to-slf4j-2.17.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
